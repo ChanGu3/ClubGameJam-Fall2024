@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f6505356ad584242bcf8cc7231e29a9, type: 3}
+  m_Name: SlimeScriptableObject
+  m_EditorClassIdentifier: 
+  GreenSprite: {fileID: -2353935283564227641, guid: 48a9bd18d75b632458c10cc8d7581610, type: 3}
+  GreenController: {fileID: 9100000, guid: eab55caa5ad9fc64aa51144078af15ff, type: 2}
+  RedSprite: {fileID: -7085592616730604382, guid: b84fd5e696954994b9ee22d8e5cf689d, type: 3}
+  RedController: {fileID: 9100000, guid: 71a78bb8498702f41877f615084d9fdc, type: 2}
+  BlueSprite: {fileID: 5085070111268971593, guid: 2255ed0c9c3684e40a5a0907d012e73c, type: 3}
+  BlueController: {fileID: 9100000, guid: d766d34c66d1a2c459c6b831c2c29598, type: 2}
+  YellowSprite: {fileID: 4740249633796341072, guid: fbeb7584ec587d045b21195c9b4e466e, type: 3}
+  YellowController: {fileID: 9100000, guid: 393e17957fd0925439d7a2dc42faa74d, type: 2}
+  OrangeSprite: {fileID: -5765546517910670487, guid: 51dc868770696d747992ceb81c56bb83, type: 3}
+  OrangeController: {fileID: 9100000, guid: 85f33a0095cd76e4887dcdcd0166691f, type: 2}
+  PurpleSprite: {fileID: 8077541301529870645, guid: 29a69d00e4fdf694f9e5806dbf059cb1, type: 3}
+  PurpleController: {fileID: 9100000, guid: e0f5751c4d94ae44b8d26a466f3279f6, type: 2}
