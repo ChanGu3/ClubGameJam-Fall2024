@@ -1,6 +1,6 @@
 # Slime Rainbow
 
-## Want To Play? Here Is A Link 
+## Want To Play The Latest Version? Here Is A Link Hosted By Itch.io! 
 https://changu3.itch.io/slime-rainbow-slot
 
 ## Description
