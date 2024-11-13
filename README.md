@@ -22,3 +22,7 @@ Credits:
     * 3 Pop Sounds | OpenGameArt.org
     * Fly Swatter Squish sound | OpenGameArt.org
     * 8bit Menu Select | OpenGameArt.org
+
+## Whats Next?
+Not Sure I probably would update it so that its close to the Double Rainbow slot by Hacksaw gaming slots
+but made in my image. Thanks for Checking this project out!
